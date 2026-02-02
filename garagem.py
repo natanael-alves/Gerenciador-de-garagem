@@ -1,27 +1,23 @@
-carros =  [
-    {
-        "placa": "CDC-2026",
-        "cor": "Vermelho",
-        "modelo": "Corolla",
-        "marca" : "Toyota",
-        "ano": 2026
-    },
-    {
-        "placa": "OAO-s60i",
-        "cor": "Preto",
-        "modelo": "Hb20",
-        "marca" : "Hyndai",
-        "ano" : 2014
-    },
-    {
-        "placa": "QZB-7A52",
-        "cor": "Braco",
-        "modelo": "S10",
-        "marca" : "Chevrolle",
-        "ano" : 2025
-        
+carros =  []
+
+def cadastrar_carro():
+    placa =  input("Digite a placa: ")
+    modelo = input("Digite o modelo: ")
+    cor = input("Digite a cor: ")
+    ano = int(input("Digite o ano: "))
+    marca = input("Digite a marca: ")
+
+    carro = {
+        "placa": placa,
+        "modelo": modelo,
+        "cor": cor,
+        "ano": ano,
+        "marca": marca
+
     }
-]
+
+    carros.append(carro)
+    print("\nCarro cadastrado com êxido")
 
 def listar_carros ():
     print("\n------------------- LISTA DE CARROS -------------------")
@@ -45,7 +41,7 @@ while True:
     opcao_escolhida = input("\nEscolha uma opção: ")
 
     if opcao_escolhida == "1":
-        print("\nAinda vamos implementar essa funcionalidade")
+        cadastrar_carro()
     elif opcao_escolhida == "2":
         listar_carros()
     elif opcao_escolhida == "3":
