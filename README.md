@@ -4,21 +4,21 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 ## Projeto desenvolvido para praticar:
 
-*Funções
+* Funções
 
-Listas
+* Listas
 
-Dicionários
+* Dicionários
 
-CRUD
+* CRUD
 
-Estruturas condicionais
+* Estruturas condicionais
 
 Laços de repetição
 
-Validação de dados
+* Validação de dados
 
-Organização de código
+* Organização de código
 
 📌 Funcionalidades
 
