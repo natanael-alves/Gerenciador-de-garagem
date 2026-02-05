@@ -4,7 +4,7 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 ## Projeto desenvolvido para praticar:
 
-* texto Funções
+*Funções
 
 Listas
 
