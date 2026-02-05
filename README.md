@@ -60,6 +60,7 @@ O sistema permite:
 
 ## 🗂 Estrutura do projeto
 gerenciador-garagem/
+
 │
 
 ├── app.py
