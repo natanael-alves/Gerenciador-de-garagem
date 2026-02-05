@@ -14,7 +14,7 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 * Estruturas condicionais
 
-Laços de repetição
+* Laços de repetição
 
 * Validação de dados
 
@@ -36,23 +36,23 @@ O sistema permite:
 
 ## Este projeto trabalha conceitos importantes de Python:
 
-Manipulação de listas (append, remove)
+* Manipulação de listas (append, remove)
 
-Dicionários
+* Dicionários
 
-Funções reutilizáveis
+* Funções reutilizáveis
 
-Busca de dados
+* Busca de dados
 
-.strip() para limpeza de entradas
+* .strip() para limpeza de entradas
 
-.lower() para comparação sem case sensitive
+* .lower() para comparação sem case sensitive
 
-Estrutura de menu com while True
+* Estrutura de menu com while True
 
-Organização modular do código
+* Organização modular do código
 
-🗂 Estrutura do projeto
+## 🗂 Estrutura do projeto
 gerenciador-garagem/
 │
 ├── app.py
