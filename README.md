@@ -25,11 +25,17 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 O sistema permite:
 
 ✅ Cadastrar carro
+
 ✅ Listar carros cadastrados
+
 ✅ Editar informações do carro
+
 ✅ Deletar carro
+
 ✅ Busca por placa (case insensitive)
+
 ✅ Validação de campos vazios
+
 ✅ Menu interativo no terminal
 
 ## 🧠 Conceitos praticados
@@ -65,7 +71,6 @@ Verifique:
 
 python --version
 
-
 ou
 
 python3 --version
@@ -76,12 +81,11 @@ Dentro da pasta do projeto:
 
 python app.py
 
-
 ou
 
 python3 app.py
 
-🖥 Exemplo de uso
+## 🖥 Exemplo de uso
 ----------GERENCIADOR DE GARAGEM----------
 1 - Cadastrar um carro
 2 - Listar os carros existentes
@@ -89,7 +93,7 @@ python3 app.py
 4 - Deletar um carro
 5 - Sair
 
-📦 Estrutura dos dados
+## 📦 Estrutura dos dados
 
 Cada carro é armazenado como um dicionário dentro da lista carros:
 
