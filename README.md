@@ -60,8 +60,8 @@ O sistema permite:
 
 ## 🗂 Estrutura do projeto
 gerenciador-garagem/
-
 │
+
 ├── app.py
 
 └── README.md
@@ -91,6 +91,7 @@ python3 app.py
 ## 🖥 Exemplo de uso
 
 ----------GERENCIADOR DE GARAGEM----------
+
 1 - Cadastrar um carro
 
 2 - Listar os carros existentes
@@ -107,9 +108,13 @@ Cada carro é armazenado como um dicionário dentro da lista carros:
 
 carro = {
     "placa": "ABC1234",
+    
     "modelo": "Civic",
+    
     "cor": "Preto",
+    
     "ano": 2020,
+    
     "marca": "Honda"
 }
 
