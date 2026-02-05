@@ -32,9 +32,9 @@ O sistema permite:
 ✅ Validação de campos vazios
 ✅ Menu interativo no terminal
 
-🧠 Conceitos praticados
+## 🧠 Conceitos praticados
 
-Este projeto trabalha conceitos importantes de Python:
+## Este projeto trabalha conceitos importantes de Python:
 
 Manipulação de listas (append, remove)
 
