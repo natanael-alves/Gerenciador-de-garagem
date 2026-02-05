@@ -108,6 +108,7 @@ python3 app.py
 Cada carro é armazenado como um dicionário dentro da lista carros:
 
 carro = {
+
     "placa": "ABC1234",
     
     "modelo": "Civic",
