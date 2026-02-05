@@ -20,7 +20,7 @@ Laços de repetição
 
 * Organização de código
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 O sistema permite:
 
