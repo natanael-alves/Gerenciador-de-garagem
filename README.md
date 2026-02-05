@@ -64,8 +64,9 @@ gerenciador-garagem/
 ├── app.py
 └── README.md
 
-▶️ Como executar
-1️⃣ Ter o Python instalado
+## ▶️ Como executar
+
+## 1️⃣ Ter o Python instalado
 
 Verifique:
 
@@ -75,7 +76,7 @@ ou
 
 python3 --version
 
-2️⃣ Executar o programa
+## 2️⃣ Executar o programa
 
 Dentro da pasta do projeto:
 
@@ -104,3 +105,10 @@ carro = {
     "ano": 2020,
     "marca": "Honda"
 }
+
+
+
+## 👨‍💻 Autor
+
+Natanael Alves
+Estudante de programação Python
