@@ -60,8 +60,10 @@ O sistema permite:
 
 ## 🗂 Estrutura do projeto
 gerenciador-garagem/
+
 │
 ├── app.py
+
 └── README.md
 
 ## ▶️ Como executar
@@ -87,11 +89,16 @@ ou
 python3 app.py
 
 ## 🖥 Exemplo de uso
+
 ----------GERENCIADOR DE GARAGEM----------
 1 - Cadastrar um carro
+
 2 - Listar os carros existentes
+
 3 - Editar um carro
+
 4 - Deletar um carro
+
 5 - Sair
 
 ## 📦 Estrutura dos dados
@@ -111,4 +118,4 @@ carro = {
 ## 👨‍💻 Autor
 
 Natanael Alves
-Estudante de programação Python
+
