@@ -77,7 +77,7 @@ python garagem.py
 
 ## 📦 Estrutura dos dados
 
-python
+```python
 carro = {
     "placa": "ABC1234",
     "modelo": "Civic",
@@ -85,7 +85,7 @@ carro = {
     "ano": 2020,
     "marca": "Honda"
 }
-
+```
 👨‍💻 Autor
 
 Natanael Alves
