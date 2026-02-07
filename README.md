@@ -47,6 +47,7 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 ## 🗂 Estrutura do projeto
 
+
 gerenciador-garagem/
 │
 ├── garagem.py
@@ -72,7 +73,7 @@ python garagem.py
 
 ## 📦 Estrutura dos dados
 
-```python
+python
 carro = {
     "placa": "ABC1234",
     "modelo": "Civic",
