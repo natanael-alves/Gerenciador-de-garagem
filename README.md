@@ -7,16 +7,8 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 ## 📸 Demonstração
 
 ### Menu
-![Menu](images/menu.png)
+![demo](demo/demo.gif)
 
-### Cadastro
-![Cadastro](images/cadastro.png)
-
-### Listagem
-![Lista](images/lista.png)
-
-### Edição
-![Editar](images/editar.png)
 
 ---
 
