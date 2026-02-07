@@ -12,7 +12,7 @@
 
 ### Edição
 ![Editar](images/editar.png)
-=======
+
 ## 🚗 Gerenciador de Garagem (CRUD em Python)
 
 Sistema simples em Python (terminal/console) para gerenciamento de carros, permitindo cadastrar, listar, editar e deletar veículos.
