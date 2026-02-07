@@ -66,6 +66,7 @@ gerenciador-garagem/
 ├── garagem.py
 ├── images/
 └── README.md
+
 ▶️ Como executar
 1️⃣ Ter o Python instalado
 python --version
