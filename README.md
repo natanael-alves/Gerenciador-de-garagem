@@ -67,19 +67,16 @@ gerenciador-garagem/
 ├── images/
 └── README.md
 
-
 ▶️ Como executar
 
 1️⃣ Ter o Python instalado
-
 python --version
 
 2️⃣ Executar o programa
-
 python garagem.py
 
 📦 Estrutura dos dados
-
+```bash
 carro = {
     "placa": "ABC1234",
     "modelo": "Civic",
