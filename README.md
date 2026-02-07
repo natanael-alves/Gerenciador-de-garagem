@@ -49,13 +49,10 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 
 gerenciador-garagem/
-
+```bash
 │
-
 ├── garagem.py
-
 ├── images/
-
 └── README.md
 
 
