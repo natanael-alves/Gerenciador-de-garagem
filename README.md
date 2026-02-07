@@ -76,7 +76,7 @@ python --version
 python garagem.py
 
 📦 Estrutura dos dados
-```bash
+
 carro = {
     "placa": "ABC1234",
     "modelo": "Civic",
