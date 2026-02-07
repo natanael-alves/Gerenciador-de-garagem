@@ -32,6 +32,20 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 ---
 
+## 🛠 Tecnologias utilizadas
+
+- Python 3
+- Terminal (CLI)
+- Git e GitHub
+
+---
+
+## 🎯 Objetivo
+
+Projeto criado para praticar lógica de programação e operações CRUD utilizando Python.
+
+---
+
 ## 🧠 Conceitos praticados
 
 - Funções  
@@ -47,34 +61,19 @@ Sistema simples em Python (terminal/console) para gerenciamento de carros, permi
 
 ## 🗂 Estrutura do projeto
 
-
-gerenciador-garagem/
 ```bash
-│
+gerenciador-garagem/
 ├── garagem.py
 ├── images/
 └── README.md
-
-
----
-
-## ▶️ Como executar
-
-### 1️⃣ Ter o Python instalado
-
+▶️ Como executar
+1️⃣ Ter o Python instalado
 python --version
 
-
-### 2️⃣ Executar o programa
-
+2️⃣ Executar o programa
 python garagem.py
 
-
----
-
-## 📦 Estrutura dos dados
-
-```python
+📦 Estrutura dos dados
 carro = {
     "placa": "ABC1234",
     "modelo": "Civic",
@@ -82,9 +81,7 @@ carro = {
     "ano": 2020,
     "marca": "Honda"
 }
-```
+
 👨‍💻 Autor
 
 Natanael Alves
-
-
